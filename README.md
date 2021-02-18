@@ -13,9 +13,11 @@ Student 3: <email>
 # Color Exercise
 
 In this exercise we will pick the colors and fonts for the following use cases: 
-1. Choose 3 colors and 2 fonts for an annual science fiction convention
-2. Choose 3 colors and 2 fonts for a furniture e-commerce site, that specializes in mid-century modern style furniture
+1. Choose 3 colors and 2 fonts for an annual science fiction convention (`scifi.html`)
+2. Choose 3 colors and 2 fonts for a furniture e-commerce site, that specializes in mid-century modern style furniture (`furniture-store.html`)
 
 ## Deliverables
 
-You will see two html files. In each html file, you will set the fonts and colors you choose at the top of the file and commit those changes.
+In each of the html files `scifi.html` and `furniture-store.html`:
+1. Modify the colors/fonts at the top of file with things you choose. Feel free to get creative and modify other CSS on the page.
+2. Take a screenshot of each `html` file rendered and add it to this README.md
