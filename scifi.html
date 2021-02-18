@@ -10,13 +10,23 @@
       --color-1: red;
       --color-2: green;
       --color-3: blue;
+      --background-color: #eee;
+
       --title-font: 'Arial';
       --content-font: 'Arial';
     }
 
+     /* 
+      you can load custom fonts with the following stucture.
+      @font-face {
+        font-family: "custom title font";
+        src: url("./test_font.ttf") format("truetype");
+      } 
+    */
+
     html, body {
       height: 100%;
-      background-color: #eee;
+      background-color: var(--background-color);
       font-family: var(--content-font);
     }
 
