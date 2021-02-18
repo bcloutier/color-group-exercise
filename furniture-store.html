@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sci-Fi Convention</title>
+  <style>
+    :root {
+      --color-1: red;
+      --color-2: green;
+      --color-3: blue;
+      --title-font: 'Arial';
+      --content-font: 'Arial';
+    }
+
+    html, body {
+      height: 100%;
+      background-color: #eee;
+      font-family: var(--content-font);
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 80px;
+    }
+
+    .screen {
+      background-color: #eee;
+      border-radius: 40px;
+      box-shadow: 0px 20px 60px rgba(0,0,0,0.3);
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+      height: 500px;
+    }
+
+    .main-title {
+      color: var(--color-1);
+      text-align: center;
+      font-family: var(--title-font);
+      padding-top: 20px;
+    }
+
+    .content {
+      padding: 20px;
+      flex: 1;
+    }
+
+    .date {
+      padding: 20px 0px;
+      font-size: 20px;
+      display: flex;
+      font-size: 25px;
+    }
+
+    .iconify {
+      color: var(--color-2);
+    }
+
+    .date-text {
+      padding: 0px 10px;
+    }
+
+    .more {
+      background-color: var(--color-3);
+      color: white;
+      border: none;
+      margin: 20px;
+      padding: 20px;
+      border-radius: 20px;
+      font-size: 20px;
+    }
+  </style>
+  <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="screen">
+      <h1 class="main-title">Furniture Showroom</h1>
+      <div class="content">
+        It's spring and that means we're opening our doors again. Following health and security guidelines we welcome you to our annual open-house where you will see our latest collections. Our designers will be here to answer questions and sign our free catalogues.
+        <div class="date">
+          <span class="iconify" data-icon="ant-design:calendar-twotone" data-inline="false"></span>
+          <span class="date-text">March 4th, 2021</span>
+        </div>
+      </div>
+      <button class="more">Sign Up!</button>
+    </div>
+  </div>
+</body>
+</html>
