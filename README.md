@@ -17,9 +17,9 @@ In this exercise we will pick the colors and fonts for the following use cases:
 2. Choose 3 colors and 2 fonts for a furniture e-commerce site, that specializes in mid-century modern style furniture (`furniture-store.html`)
 
 You can use the following resources to generate color palettes for inspiration, or create your own!
-- [Coolors.co](https://coolors.co/palettes/trending){:target="_blank" rel="noopener"}
-- [Adobe Color](https://color.adobe.com/explore){:target="_blank" rel="noopener"}
-- [Canva](https://www.canva.com/colors/color-palettes/){:target="_blank" rel="noopener"}
+- [Coolors.co](https://coolors.co/palettes/trending)
+- [Adobe Color](https://color.adobe.com/explore)
+- [Canva](https://www.canva.com/colors/color-palettes/)
 
 ## Deliverables
 
