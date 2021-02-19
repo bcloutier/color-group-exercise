@@ -19,6 +19,7 @@ In this exercise we will pick the colors and fonts for the following use cases:
 You can use the following resources to generate color palettes for inspiration, or create your own!
 - [Coolors.co](https://coolors.co/palettes/trending)
 - [Adobe Color](https://color.adobe.com/explore)
+- [Canva](https://www.canva.com/colors/color-palettes/)
 
 ## Deliverables
 
